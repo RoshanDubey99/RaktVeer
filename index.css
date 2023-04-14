@@ -1,5 +1,5 @@
 body {
-  background-color: #d37171;
+  background-color: #5865F260;
 }
 
 #title {
@@ -83,7 +83,7 @@ body {
 
 /* testimonials */
 #testimonials {
-  background-color: #e6ddc4;
+  /* background-color: #e6ddc4; */
   padding: 7% 15%;
   text-align: center;
 }
@@ -93,35 +93,8 @@ body {
 }
 
 /* footer  */
-/* #footer p{
-   color: #000;
-   font-size: 1.5rem;
-   text-align: center;
-   padding-top: 10px;
- }
- .icon{
-  padding-left:730px;
- }
- .icon1{
-  margin: 5px;
- }
- .mailbtn{
-  margin-top: 20px ;
-  margin-left: 730px;
-  text-decoration: none;
- }
- .mailbtn2{
-  text-decoration: none;
-  color:grey;
- }
- #footer{
-  background-color: #fff;
-   background-image:url(images/background-main.jpeg) ;
- }
 
- .btnn:hover{
- color: #fff;
- } */
+
 .navbar-link:hover {
   color: #000;
 }
@@ -192,10 +165,4 @@ body {
   background-color: white;
   display: none;
   overflow: hidden;
-}
-
-hr {
-  border: none;
-  border-bottom: 2px solid #000;
-  margin: 0;
 }
